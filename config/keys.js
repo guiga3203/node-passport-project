@@ -1,5 +1,3 @@
 module.exports = {
-    MongoURI: 'mongodb+srv://gui123:Sa7cklNdA6cHuJRF@clusternodeapp-pprat.mongodb.net/test?retryWrites=true&w=majority'
+    MongoURI: ' '  //Insert here your mongo URI for the database
 }
-
-//Sa7cklNdA6cHuJRF
